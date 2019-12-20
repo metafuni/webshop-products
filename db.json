@@ -31,25 +31,25 @@
       "price": 150
     },
     {
-      "id": 2,
+      "id": 6,
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-leather-shoes-isolated-on-white-background-including-clipping-path-216565609.jpg",
       "name": "Black leather shoes",
       "price": 250
     },
     {
-      "id": 6,
+      "id": 7,
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-casual-shoes-on-white-background-included-clipping-path-667459072.jpg",
       "name": "Shoes Canvas",
       "price": 50
     },
     {
-      "id": 7,
+      "id": 8,
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-white-sneakers-on-white-background-including-clipping-path-1100736923.jpg",
       "name": "Shoes White",
       "price": 85
     },
     {
-      "id": 8,
+      "id": 9,
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-yellow-sneakers-15066415.jpg",
       "name": "Sneakers Yellow",
       "price": 125
